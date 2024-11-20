@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Binaries
+.DS_Store
+*.exe
+
+# Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Coverage directory
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# Optional npm cache directory
+.npm/
+
+# Package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Azure Blob Storage related files (if any generated)
+*.blob
+
+# Git-specific
+.git/
+.gitconfig
